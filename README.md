@@ -3,6 +3,8 @@ Repositorio creado para la prueba técnica de la Droguería Nena como parte de l
 
 ## Problema 3: Sistema de Alerta Temprana (Churn Rate)
 
+<img width="1290" height="724" alt="image" src="https://github.com/user-attachments/assets/2c8297e1-deb8-49f6-a3bd-27f6cebcddca" />
+
 ## Directorio
 
 * Codigo.ipynb: Contiene todo el código necesario para la resolución del caso de negocio, así como también gráficos, insights encontrados y recomendaciones para el negocio
